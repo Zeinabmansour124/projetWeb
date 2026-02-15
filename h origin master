@@ -1,0 +1,16 @@
+[33md0d7c7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from main to master
+[33md0d7c7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: reset: moving to origin/master
+[33m4620e2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: pull origin master --allow-unrelated-histories: updating HEAD
+[33m4620e2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: checkout: moving from main to main
+[33m4620e2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: commit: premiere interface finalisee
+[33m64dd8b0[m HEAD@{5}: commit (merge): mee 9ablee keritha
+[33m243ad7b[m HEAD@{6}: commit: 9ablee keritha
+[33mdc2f0c0[m HEAD@{7}: commit: nouvelle mise en page
+[33m04bc2d8[m HEAD@{8}: commit: changes on the left
+[33md7c2079[m HEAD@{9}: commit: chnages on some colors
+[33m176827c[m HEAD@{10}: commit: st css touch
+[33m9d12acd[m HEAD@{11}: reset: moving to origin/main
+[33meefffc4[m HEAD@{12}: commit (merge): first bootStrap changes
+[33m4b30be9[m HEAD@{13}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4b30be9[m HEAD@{15}: Branch: renamed refs/heads/master to refs/heads/main
+[33m4b30be9[m HEAD@{17}: commit (initial): st version of html exchanges
