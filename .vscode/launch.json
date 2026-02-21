@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open echanges.html",
-            "file": "c:\\gl2\\sem2\\dev web\\projetWeb\\echanges.html"
+            "name": "codeHTML.html",
+            "file": "c:\\gl2\\sem2\\dev web\\projetWeb\\codeHTML.html"
         }
     ]
 }
